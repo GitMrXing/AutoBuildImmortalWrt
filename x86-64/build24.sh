@@ -64,6 +64,7 @@ PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 # 静态文件服务器dufs(推荐)
 # PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 PACKAGES="$PACKAGES luci-app-frps"
+PACKAGES="$PACKAGES luci-app-ddns"
 
 # ======== shell/custom-packages.sh =======
 # 合并imm仓库以外的第三方插件
